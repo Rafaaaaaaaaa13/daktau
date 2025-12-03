@@ -8,5 +8,9 @@
 <body>
     <h1>Hello banggg</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam in magnam facere amet iste commodi necessitatibus voluptas? A earum quos obcaecati natus iure rerum esse tempora veritatis placeat architecto! Eum.</p>
+    <ul>
+        <li>halo</li>
+        <li>apasih deks</li>
+    </ul>
 </body>
 </html>
